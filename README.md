@@ -2,7 +2,7 @@
 
 Submitted by: **Quang Duong Nguyen**
 
-This web app: **insert description**
+This web app: **Flashcard app to help people learn app development**
 
 Time spent: **20** hours spent in total
 
@@ -35,7 +35,7 @@ Here's a walkthrough of implemented required features:
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [ezGIF](https://ezgif.com)  
+GIF created with [ezGIF](https://ezgif.com)
 <!-- Recommended tools:
  for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
