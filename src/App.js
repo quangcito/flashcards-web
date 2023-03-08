@@ -37,7 +37,7 @@ function App() {
     <>
     <Toolbar></Toolbar>
     <Container className="container-main">
-      <h1 className="total">Total number of cards: {totalCards}</h1>
+      <h3 className="total">Total number of cards: {totalCards}</h3>
       <Card {...allCards.find(item=> item.id === curCardId)}></Card>
       <div className="action-buttons">
         <Button variant="warning" className="me-4 prev-next-btns" onClick={goToPrev}>Prev</Button>

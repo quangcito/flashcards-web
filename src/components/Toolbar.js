@@ -14,7 +14,7 @@ export default function Toolbar(props) {
                 height="30"
                 className="d-inline-block align-top"
                 />{' '}
-                React Flashcard
+                Flashcard for App Development
             </Navbar.Brand>
             </Container>
         </Navbar>
